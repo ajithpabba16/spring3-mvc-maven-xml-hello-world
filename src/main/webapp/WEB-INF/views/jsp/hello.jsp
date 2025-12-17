@@ -56,7 +56,7 @@
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>Kubernetes with helm</p>
+		<p>Kubernetes with helm today</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
